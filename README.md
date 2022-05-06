@@ -1,2 +1,2 @@
-# Estrit-rioWeb
+# EstritorioWeb
 Trabalhe pela Web com recursos online
